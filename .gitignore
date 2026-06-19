@@ -1,0 +1,5 @@
+# 중간 산출물 (intermediate artifacts)
+_workspace/
+
+# 개인 로컬 설정 (personal local settings)
+.claude/settings.local.json
